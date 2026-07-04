@@ -112,8 +112,8 @@ def generate_ai_reminder(tasks):
 
     Output template:
     Opening 
-    PIC Name (No need to bold the name)
-
+    
+    PIC Name (No need to bold the name and no need to have 2 newlines between the PIC name and the bullet points)
     - Task Name (straightly state the Task Name)
     - Current Status: the Current Status
     - Deadline: the deadline
